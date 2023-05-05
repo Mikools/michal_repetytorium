@@ -1,4 +1,4 @@
-const button = document.getElementById("Hi");
-button.addEventListener("click", () => {
+const Hi = document.getElementById("Hi");
+Hi.addEventListener("click", () => {
   alert("Hello universe!");
 });
